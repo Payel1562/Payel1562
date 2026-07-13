@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, This is @Payel1562<br>👀 I’m interested in  Data Structures and Algorithms , Development and Database Mananagement.<br>🌱 I’m currently learning Fullstack.<br>📫 How to reach me--><br>Here is my LinkedIn :- https://www.linkedin.com/in/payelsingh04/<br>for more queries here is my email :- payelsingh1562@gmail.com
+👋Hi, This is @Payel1562<br>👀 I’m interested in  Data Structures and Algorithms , Development and Database Mananagement.<br>🌱 I’m currently learning Fullstack.<br>📫 How to reach me--><br>Here is my email :- payelsingh1562@gmail.com
 
 
 ## 🌐 Socials:
